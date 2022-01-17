@@ -1,0 +1,41 @@
+body {
+ background-color: #EAF6F6;
+}
+
+hr {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 10px;
+ width: 10%;
+}
+
+h1{
+color: powderblue;
+}
+
+h3{
+color: powderblue;
+}
+
+.profile
+{
+  border-radius: 100%;
+}
+/*
+FOR TAG SELECTORS
+
+we use
+h1, hr etc. or the heads*/
+
+
+
+/* FOR CLASS SELECTORS
+we use
+.bacon
+.brocoli etc. */
+
+/* FOR ID SELECTORS
+we use
+#heading
+#background. */
